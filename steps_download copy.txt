@@ -1,0 +1,32 @@
+ES7+ React/Redux/React-Native snippets Vscode
+JavaScript (ES6) code snippets Vscode
+##############################################
+Django insallation 
+venv/scripts/activate
+pip install django
+ npm install -g npm (insatll nodejs)
+ pip install djangorestframework 
+ create  django project : 
+   django-admin startproject <crud> 1 dossier
+create API:
+   django-admin startapp api  
+
+
+ git steps:
+
+
+Change teminal to git bash as default
+create a new repository avec le web
+
+
+echo "# react-gpt" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Laa7ad/react-gpt.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/Laa7ad/react-gpt.git
+git branch -M main
+git push -u origin main
